@@ -4,6 +4,7 @@ A Python-based Sentiment Analysis Chatbot built using NLTK and VADER. The chatbo
 NOTE : [ CHATBOT CREATED USING GOOGLE COLAB ]
 
 # VADER Sentiment Analysis Chatbot
+VADER - ( Valence Aware Dictionary and sEntiment Reasoner )
 
 ## Project Overview
 
